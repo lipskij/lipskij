@@ -8,6 +8,5 @@
 - Backend development using **Node Js**
 - Portfolio site: [Portfolio](https://https://lipskij.xyz/)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=lipskij&show_icons=true)
 
 ---
