@@ -6,7 +6,7 @@
 
 - Front-end development using **HTML, Javascript,CSS,React**
 - Backend development using **Node Js**
-- Portfolio site: [Portfolio](https://https://lipskij.xyz/)
+- Portfolio site: [Portfolio](https://lipskij.xyz/)
 
 
 ---
